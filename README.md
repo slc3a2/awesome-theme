@@ -1,6 +1,6 @@
 # theme-emperor-penguins 
 
-一款帝企鹅Chrome主题
+一款帝企鹅Chrome主题(仅用于交流学习)
 <div style='text-align:center;'><img width='600px' height='350px;' src='./images/preview.jpg' alt='publicity image'/></div> 
 
 安装步骤: 
