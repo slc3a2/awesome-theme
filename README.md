@@ -1,6 +1,7 @@
 ## extension-chrome-theme
 
 >  Chrome帝企鹅浏览器主题(用来学习使用)
+<div style='text-align:center;'><img width='600px' height='350px;' src='./images/preview.jpg' alt='publicity image'/></div> 
 
 ## 资源
 
