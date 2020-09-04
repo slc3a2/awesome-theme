@@ -1,6 +1,6 @@
 ## extension-chrome-theme
 
->  chrome 帝企鹅浏览器主题(用来学习使用)
+>  Chrome帝企鹅浏览器主题(用来学习使用)
 
 ## 资源
 
@@ -9,10 +9,10 @@
 
 ## 使用 
 
-- 下载「emperor penguins.crx」文件 
+- 打开Chrome，进入地址：`chrome://extensions/`
 
-- 进入[chrome扩展程序](chrome://extensions/)页面 
+- 打开右上角开发者开关，点击左上角加载已解压扩展程序
 
-- 打开右上角开发者模式拖入「emperor penguins.crx」 
+- 选择项目文件夹
 
 
